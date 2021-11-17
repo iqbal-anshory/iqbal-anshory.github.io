@@ -269,9 +269,9 @@
 
 	var dateCountDown = function() {
 		$('.date-countdown').simplyCountdown({
-	    year: 2019, // year
-	    month: 4, // month
-	    day: 20, // day
+	    year: 2022, // year
+	    month: 1, // month
+	    day: 14, // day
 	    hours: 0, // Default is 0 [0-23] integer
       minutes: 0, // Default is 0 [0-59] integer
       seconds: 0, // Default is 0 [0-59] integer
