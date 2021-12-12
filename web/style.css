@@ -1,47 +1,46 @@
 .jumbotron {
-  padding-top: 1rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 1rem;
-  background-color: #000;
+  padding-top: 2rem;
+  background-color: #d3bdb6;
 }
 
 .countdown {
-  padding-bottom: 1rem;
-  background-color: rgb(255, 0, 0);
+  padding-top: 2rem;
+  background-color: #ece3dc;
 }
 
 .couple {
-  background-color: #99c229;
+  padding-top: 2rem;
+  background-color: #fff;
 }
 
 .date {
-  padding-bottom: 1rem;
-  background-color: rgb(41, 194, 130);
+  padding-top: 2rem;
+  background-color: #f1eae0;
 }
 
 .gallery {
-  padding-bottom: 1rem;
-  background-color: rgb(49, 21, 87);
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+  background-color: #0099ff;
 }
 
 #clockdiv {
   font-family: sans-serif;
-  color: #fff;
+  color: #000;
   display: inline-block;
-  font-weight: 100;
+  font-weight: 500;
   text-align: center;
-  font-size: 15px;
+  font-size: 25px;
 }
 #clockdiv > div {
-  padding: 3px;
-  border-radius: 3px;
-  background: #00bf96;
+  padding: 10px;
+  border-radius: 10px;
+  background: #fff;
   display: inline-block;
 }
 #clockdiv div > span {
-  padding: 3px;
-  border-radius: 3px;
-  background: #00bf96;
+  padding: 10px;
+  border-radius: 5px;
+  background: #fff;
   display: inline-block;
 }
