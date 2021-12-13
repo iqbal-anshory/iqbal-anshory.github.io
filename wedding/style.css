@@ -28,9 +28,9 @@
   font-family: sans-serif;
   color: #000;
   display: inline-block;
-  font-weight: 450;
+  font-weight: 550;
   text-align: center;
-  font-size: 25px;
+  font-size: 15px;
 }
 #clockdiv > div {
   padding: 5px;
