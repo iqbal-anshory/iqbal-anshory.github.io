@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #d3bdb6;
+}
+
+.countdown {
+  padding-top: 2rem;
+  background-color: #ece3dc;
+}
+
+.couple {
+  padding-top: 2rem;
+  background-color: #fff;
+}
+
+.date {
+  padding-top: 2rem;
+  background-color: #f1eae0;
+}
+
+.gallery {
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+  background-color: #fff;
+}
+
+#clockdiv {
+  font-family: sans-serif;
+  color: #000;
+  display: inline-block;
+  font-weight: 550;
+  text-align: center;
+  font-size: 15px;
+}
+#clockdiv > div {
+  padding: 5px;
+  border-radius: 5px;
+  background: #fff;
+  display: inline-block;
+}
+#clockdiv div > span {
+  padding: 5px;
+  border-radius: 5px;
+  background: #fff;
+  display: inline-block;
+}
