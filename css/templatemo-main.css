@@ -298,7 +298,7 @@ nav a:hover::before {
   background-image: url(../img/first_bg.jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-image: url(../img/Jayapura_city.jpg);
 }
 .slides .slide:nth-child(3) {
   background-image: url(../img/third_bg.jpg);
